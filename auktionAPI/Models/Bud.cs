@@ -5,9 +5,7 @@ namespace auktionAPI.Models;
 
 public class Bud
 {
-    [BsonId]
-    [BsonRepresentation(BsonType.ObjectId)]
-    public string? Id { get; set; }
+    public Guid Id { get; set; }
 
     public string? VareId { get; set; }
 

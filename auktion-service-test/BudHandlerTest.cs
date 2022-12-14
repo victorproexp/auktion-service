@@ -108,7 +108,7 @@ public class BudHandlerTest
     private Bud CreateBidWithValueOnItem(int value, string vareId)
     {
         Bud bud = new Bud() {
-            Id = "bud1", 
+            Id = Guid.NewGuid(), 
             VareId = vareId, 
             KundeId = "kunde1", 
             Value = value, 
