@@ -10,7 +10,7 @@
     <InformationalVersion>1.0.0</InformationalVersion>
     <Description>
       1.0.0 Updated with new Semantics
-      0.9.0 Bid Service Added to App
+      0.9.0 Auction Service Added to App
     </Description>
     
     <TargetFramework>net7.0</TargetFramework>
