@@ -8,9 +8,9 @@ public class BudHandler : IBudHandler
     {
     }
 
-    public Auktion? MakeBid(Bud bud)
+    public Auktion? UpdateAuctionIfBidIsValid(Bud bud)
     {
-        var auktion = VerifyBid(bud);
+        var auktion = GetAuctionIfBidIsValid(bud);
         
         if (auktion is not null)
         {
@@ -20,7 +20,7 @@ public class BudHandler : IBudHandler
         return auktion;
     }
 
-    private Auktion? VerifyBid(Bud bud)
+    private Auktion? GetAuctionIfBidIsValid(Bud bud)
     {
         return AuktionList.FirstOrDefault(a => IsMatchOnVare(bud, a) && IsHighestBid(bud, a));
     }

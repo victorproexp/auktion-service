@@ -15,7 +15,7 @@ public class BudHandlerTest
         BudHandler budHandler = CreateBudHandlerWithAuctionWithItem("vare1");
 
         // Act
-        budHandler.MakeBid(newBud);
+        budHandler.UpdateAuctionIfBidIsValid(newBud);
 
         // Assert
         Bud actual = budHandler.AuktionList[0].BudList[0];
@@ -31,8 +31,8 @@ public class BudHandlerTest
         BudHandler budHandler = CreateBudHandlerWithAuctionWithItem("vare1");
 
         // Act
-        budHandler.MakeBid(newBud);
-        budHandler.MakeBid(newBud2);
+        budHandler.UpdateAuctionIfBidIsValid(newBud);
+        budHandler.UpdateAuctionIfBidIsValid(newBud2);
 
         // Assert
         List<Bud> expectedList = new List<Bud>() { 
@@ -57,8 +57,8 @@ public class BudHandlerTest
         BudHandler budHandler = CreateBudHandlerWithAuctionWithItem("vare1");
 
         // Act
-        budHandler.MakeBid(newBud);
-        budHandler.MakeBid(invalidBud);
+        budHandler.UpdateAuctionIfBidIsValid(newBud);
+        budHandler.UpdateAuctionIfBidIsValid(invalidBud);
 
         // Assert
         List<Bud> expectedList = new List<Bud>() { 
@@ -84,10 +84,10 @@ public class BudHandlerTest
         BudHandler budHandler = CreateBudHandlerWithAuctionWith2Items("vare1", "vare2");
 
         // Act
-        budHandler.MakeBid(newBud200Vare1);
-        budHandler.MakeBid(newBud300Vare2);
-        budHandler.MakeBid(newBud250Vare1);
-        budHandler.MakeBid(newBud350Vare2);
+        budHandler.UpdateAuctionIfBidIsValid(newBud200Vare1);
+        budHandler.UpdateAuctionIfBidIsValid(newBud300Vare2);
+        budHandler.UpdateAuctionIfBidIsValid(newBud250Vare1);
+        budHandler.UpdateAuctionIfBidIsValid(newBud350Vare2);
 
         // Assert
         List<Bud> expectedList1 = new List<Bud>() { 

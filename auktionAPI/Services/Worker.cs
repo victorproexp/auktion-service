@@ -49,7 +49,7 @@ public class Worker : BackgroundService
 
             if (bud is not null)
             {
-                UpdateAuktion(bud);
+                UpdateAuction(bud);
 
                 Console.WriteLine(" [x] Received {0}", message);
             }
@@ -67,11 +67,11 @@ public class Worker : BackgroundService
         }
     }
 
-    private async void UpdateAuktion(Bud bud)
+    private async void UpdateAuction(Bud bud)
     {
         _budHandler.AuktionList = await _auktionService.GetAsync();
 
-        Auktion? auktion = _budHandler.MakeBid(bud);
+        Auktion? auktion = _budHandler.UpdateAuctionIfBidIsValid(bud);
 
         if (auktion is not null)
         {
