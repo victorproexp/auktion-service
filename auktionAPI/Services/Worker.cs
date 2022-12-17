@@ -76,6 +76,8 @@ public class Worker : BackgroundService
         if (auktion is not null)
         {
             await _auktionService.UpdateAsync(auktion.Id!, auktion);
+
+            _logger.LogInformation("Bid inserted in auction");
         }    
     }
 }
