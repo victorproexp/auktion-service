@@ -4,14 +4,14 @@ using System.Text;
 using System.Text.Json;
 
 namespace auktionAPI.Services;
-public class Worker : BackgroundService
+public class AuktionWorker : BackgroundService
 {
-    private readonly ILogger<Worker> _logger;
+    private readonly ILogger<AuktionWorker> _logger;
     private readonly IConnection _connection;
     private readonly IAuktionService _auktionService;
     private readonly IBudHandler _budHandler;
 
-    public Worker(ILogger<Worker> logger, IConfiguration configuration, IAuktionService auktionService, IBudHandler budHandler)
+    public AuktionWorker(ILogger<AuktionWorker> logger, IConfiguration configuration, IAuktionService auktionService, IBudHandler budHandler)
     {
         _logger = logger;
         _auktionService = auktionService;
@@ -61,8 +61,6 @@ public class Worker : BackgroundService
 
         while (!stoppingToken.IsCancellationRequested)
         {
-            //_logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-
             await Task.Delay(1000, stoppingToken);
         }
     }

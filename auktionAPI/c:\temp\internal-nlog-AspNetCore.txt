@@ -327,3 +327,33 @@
 2022-12-14 17:50:27.3228 Info Shutdown() called. Logger closing...
 2022-12-14 17:50:27.3260 Info Closing old configuration.
 2022-12-14 17:50:27.3356 Info Logger has been closed down.
+2022-12-16 10:06:42.0064 Info Message Template Auto Format enabled
+2022-12-16 10:06:42.0693 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 10:06:42.1159 Info Registered target FileTarget(Name=allfile)
+2022-12-16 10:06:42.1187 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-16 10:06:42.1197 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-16 10:06:42.2331 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-16 10:06:42.8901 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-16 10:20:07.3354 Info Shutdown() called. Logger closing...
+2022-12-16 10:20:07.3373 Info Closing old configuration.
+2022-12-16 10:20:07.3524 Info Logger has been closed down.
+2022-12-16 10:26:35.9388 Info Message Template Auto Format enabled
+2022-12-16 10:26:35.9816 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 10:26:36.0219 Info Registered target FileTarget(Name=allfile)
+2022-12-16 10:26:36.0243 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-16 10:26:36.0250 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-16 10:26:36.0947 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-16 10:26:36.5080 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-16 11:13:12.4389 Info Shutdown() called. Logger closing...
+2022-12-16 11:13:12.4410 Info Closing old configuration.
+2022-12-16 11:13:12.4544 Info Logger has been closed down.
+2022-12-17 11:57:08.1526 Info Message Template Auto Format enabled
+2022-12-17 11:57:08.2065 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-17 11:57:08.2468 Info Registered target FileTarget(Name=allfile)
+2022-12-17 11:57:08.2490 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-17 11:57:08.2499 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-17 11:57:08.3375 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-17 11:57:09.0873 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-17 15:07:07.0270 Info Shutdown() called. Logger closing...
+2022-12-17 15:07:07.0340 Info Closing old configuration.
+2022-12-17 15:07:07.0582 Info Logger has been closed down.

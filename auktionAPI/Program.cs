@@ -34,7 +34,7 @@ try
         });
     });
 
-    builder.Services.AddHostedService<Worker>();
+    builder.Services.AddHostedService<AuktionWorker>();
 
     // NLog: Setup NLog for Dependency injection
     builder.Logging.ClearProviders();
