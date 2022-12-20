@@ -8,9 +8,9 @@ public class AuktionService : IAuktionService
     private readonly IMongoCollection<Auktion> _auktionCollection;
 
     public AuktionService(
-        IOptions<AuktionDatabaseSettings> auktionDatabaseSettings)
+        IOptions<AuktionDatabaseSettings> auktionDatabaseSettings, IConfiguration configuration)
     {
-        var mongoClient = new MongoClient(auktionDatabaseSettings.Value.ConnectionString);
+        var mongoClient = new MongoClient(configuration["ConnectionString"]);
 
         var mongoDatabase = mongoClient.GetDatabase(
             auktionDatabaseSettings.Value.DatabaseName);
