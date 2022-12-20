@@ -26,7 +26,7 @@
     <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.0" />
     <PackageReference Include="RabbitMQ.Client" Version="6.4.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <None Include="NLog.config">
+    <None Include="nlog.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
