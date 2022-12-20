@@ -11,23 +11,18 @@ public class AuktionWorker : BackgroundService
     private readonly IAuktionService _auktionService;
     private readonly IBudHandler _budHandler;
 
-    public AuktionWorker(ILogger<AuktionWorker> logger, IConfiguration configuration, IAuktionService auktionService, IBudHandler budHandler)
+    public AuktionWorker(ILogger<AuktionWorker> logger, IConfiguration configuration, 
+        IAuktionService auktionService, IBudHandler budHandler)
     {
         _logger = logger;
         _auktionService = auktionService;
         _budHandler = budHandler;
-
+        
         var mqhostname = configuration["BudBrokerHost"];
-
-        if (String.IsNullOrEmpty(mqhostname))
-        {
-            mqhostname = "localhost";
-        }
-
+        _logger.LogInformation($"AuktionWorker listening on host at {mqhostname}");
+        
         var factory = new ConnectionFactory() { HostName = mqhostname };
         _connection = factory.CreateConnection();
-
-        _logger.LogInformation($"Booking worker listening on host at {mqhostname}");
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -51,7 +46,7 @@ public class AuktionWorker : BackgroundService
             {
                 UpdateAuction(bud);
 
-                Console.WriteLine(" [x] Received {0}", message);
+                _logger.LogInformation(" [x] Received {0}", message);
             }
         };
 

@@ -6,7 +6,7 @@ using Microsoft.OpenApi.Models;
 
 
 var logger = NLog.LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
-logger.Debug("init main");
+logger.Info("init main");
 
 try
 {

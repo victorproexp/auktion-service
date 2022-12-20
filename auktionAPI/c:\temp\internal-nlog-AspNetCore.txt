@@ -357,3 +357,586 @@
 2022-12-17 15:07:07.0270 Info Shutdown() called. Logger closing...
 2022-12-17 15:07:07.0340 Info Closing old configuration.
 2022-12-17 15:07:07.0582 Info Logger has been closed down.
+2022-12-20 10:43:39.0276 Info Message Template Auto Format enabled
+2022-12-20 10:43:39.0801 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 10:43:39.0812 Info Loading assembly: NLog.Loki
+2022-12-20 10:43:39.1677 Info Registered target FileTarget(Name=allfile)
+2022-12-20 10:43:39.1701 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 10:43:39.1708 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 10:43:39.2219 Info Registered target LokiTarget(Name=loki)
+2022-12-20 10:43:39.2843 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:43:39.9251 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:43:55.8251 Info Message Template Auto Format enabled
+2022-12-20 10:43:55.8802 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 10:43:55.8813 Info Loading assembly: NLog.Loki
+2022-12-20 10:43:55.9664 Info Registered target FileTarget(Name=allfile)
+2022-12-20 10:43:55.9731 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 10:43:55.9759 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 10:43:56.0423 Info Registered target LokiTarget(Name=loki)
+2022-12-20 10:43:56.1068 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:43:56.4663 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:53:24.5375 Info Message Template Auto Format enabled
+2022-12-20 10:53:24.6794 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 10:53:24.6803 Info Loading assembly: NLog.Loki
+2022-12-20 10:53:24.7370 Info Registered target FileTarget(Name=allfile)
+2022-12-20 10:53:24.7397 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 10:53:24.7405 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 10:53:24.7954 Info Registered target LokiTarget(Name=loki)
+2022-12-20 10:53:24.8713 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:53:25.3984 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:57:28.0779 Info Message Template Auto Format enabled
+2022-12-20 10:57:28.2534 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 10:57:28.2544 Info Loading assembly: NLog.Loki
+2022-12-20 10:57:28.3347 Info Registered target FileTarget(Name=allfile)
+2022-12-20 10:57:28.3434 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 10:57:28.3448 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 10:57:28.3961 Info Registered target LokiTarget(Name=loki)
+2022-12-20 10:57:28.4584 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 10:57:29.0134 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:10:42.5708 Info Message Template Auto Format enabled
+2022-12-20 11:10:42.6218 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:10:42.6227 Info Loading assembly: NLog.Loki
+2022-12-20 11:10:42.6821 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:10:42.6856 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:10:42.6863 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:10:42.7258 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:10:42.7838 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:10:43.2078 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:10:43.8353 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:13:12.5168 Info Message Template Auto Format enabled
+2022-12-20 11:13:12.5589 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:13:12.5598 Info Loading assembly: NLog.Loki
+2022-12-20 11:13:12.6021 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:13:12.6053 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:13:12.6059 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:13:12.6450 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:13:12.6963 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:12.9541 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:13.6171 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:13:18.6633 Info Message Template Auto Format enabled
+2022-12-20 11:13:18.7539 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:13:18.7556 Info Loading assembly: NLog.Loki
+2022-12-20 11:13:18.8865 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:13:18.8898 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:13:18.8905 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:13:18.9972 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:13:19.1343 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:19.6267 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:20.3393 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:13:24.9860 Info Message Template Auto Format enabled
+2022-12-20 11:13:25.0287 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:13:25.0295 Info Loading assembly: NLog.Loki
+2022-12-20 11:13:25.0675 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:13:25.0700 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:13:25.0710 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:13:25.1056 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:13:25.1890 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:25.4201 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:13:26.0405 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:14:04.6116 Info Message Template Auto Format enabled
+2022-12-20 11:14:04.7166 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:14:04.7174 Info Loading assembly: NLog.Loki
+2022-12-20 11:14:04.7836 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:14:04.7867 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:14:04.7891 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:14:04.8414 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:14:04.9112 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:14:05.3965 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:14:06.2291 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:16:24.5739 Info Message Template Auto Format enabled
+2022-12-20 11:16:24.7201 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:16:24.7218 Info Loading assembly: NLog.Loki
+2022-12-20 11:16:24.8490 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:16:24.8527 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:16:24.8527 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:16:24.9007 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:16:24.9554 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:16:25.4391 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:16:26.6524 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:17:06.2170 Info Shutdown() called. Logger closing...
+2022-12-20 11:17:06.2174 Info Closing old configuration.
+2022-12-20 11:17:06.2262 Info Logger has been closed down.
+2022-12-20 11:17:44.2845 Info Message Template Auto Format enabled
+2022-12-20 11:17:44.3325 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:17:44.3325 Info Loading assembly: NLog.Loki
+2022-12-20 11:17:44.3742 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:17:44.3771 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:17:44.3778 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:17:44.4194 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:17:44.4656 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:17:44.7703 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=81, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:17:45.9579 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:19:15.6901 Info Shutdown() called. Logger closing...
+2022-12-20 11:19:15.6922 Info Closing old configuration.
+2022-12-20 11:19:15.7072 Info Logger has been closed down.
+2022-12-20 11:19:20.0156 Info Message Template Auto Format enabled
+2022-12-20 11:19:20.0572 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:19:20.0581 Info Loading assembly: NLog.Loki
+2022-12-20 11:19:20.1504 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:19:20.1539 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:19:20.1547 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:19:20.2186 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:19:20.2325 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'Console' not found for logging rule: *.
+2022-12-20 11:19:20.2860 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=82, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:19:20.4707 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=82, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:19:21.5205 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:21:08.9709 Info Shutdown() called. Logger closing...
+2022-12-20 11:21:08.9739 Info Closing old configuration.
+2022-12-20 11:21:08.9940 Info Logger has been closed down.
+2022-12-20 11:21:13.9191 Info Message Template Auto Format enabled
+2022-12-20 11:21:13.9763 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:21:13.9763 Info Loading assembly: NLog.Loki
+2022-12-20 11:21:14.0216 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:21:14.0239 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:21:14.0246 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-12-20 11:21:14.1338 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:21:14.1408 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'Console' not found for logging rule: *.
+2022-12-20 11:21:14.1996 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=82, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:21:14.5700 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, loki, ConfigItems=82, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:21:14.9780 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:21:15.2567 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:26:26.8908 Info Shutdown() called. Logger closing...
+2022-12-20 11:26:26.8932 Info Closing old configuration.
+2022-12-20 11:26:26.9112 Info Logger has been closed down.
+2022-12-20 11:27:53.5160 Info Message Template Auto Format enabled
+2022-12-20 11:27:53.5596 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:27:53.5604 Info Loading assembly: NLog.Loki
+2022-12-20 11:27:53.6114 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:27:53.6136 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:27:53.6142 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:27:53.6646 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:27:53.6704 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:27:53.7091 Info Validating config: TargetNames=allfile, ownFile-web, loki, console, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:27:53.9914 Info Validating config: TargetNames=allfile, ownFile-web, loki, console, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:27:54.3439 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:27:55.2335 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:30:32.2046 Info Shutdown() called. Logger closing...
+2022-12-20 11:30:32.2067 Info Closing old configuration.
+2022-12-20 11:30:32.2142 Info Logger has been closed down.
+2022-12-20 11:30:36.5018 Info Message Template Auto Format enabled
+2022-12-20 11:30:36.5539 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:30:36.5571 Info Loading assembly: NLog.Loki
+2022-12-20 11:30:36.6334 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:30:36.6405 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:30:36.6410 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:30:36.6965 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:30:36.7201 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:30:36.8030 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:30:37.1090 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:30:37.4529 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:30:38.7902 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:30:46.7784 Info Shutdown() called. Logger closing...
+2022-12-20 11:30:46.7789 Info Closing old configuration.
+2022-12-20 11:30:46.7919 Info Logger has been closed down.
+2022-12-20 11:30:50.2194 Info Message Template Auto Format enabled
+2022-12-20 11:30:50.2594 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:30:50.2602 Info Loading assembly: NLog.Loki
+2022-12-20 11:30:50.2965 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:30:50.2988 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:30:50.2988 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:30:50.3337 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:30:50.3389 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:30:50.4125 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:30:50.6575 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:30:51.1062 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:30:51.3714 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:31:00.7313 Info Shutdown() called. Logger closing...
+2022-12-20 11:31:00.7313 Info Closing old configuration.
+2022-12-20 11:31:00.7452 Info Logger has been closed down.
+2022-12-20 11:31:16.3145 Info Message Template Auto Format enabled
+2022-12-20 11:31:16.3960 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:31:16.3969 Info Loading assembly: NLog.Loki
+2022-12-20 11:31:16.4913 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:31:16.4938 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:31:16.4938 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:31:16.5748 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:31:16.6307 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:31:16.7241 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:31:17.2873 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:31:17.3770 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:31:18.9558 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:31:49.3380 Info Shutdown() called. Logger closing...
+2022-12-20 11:31:49.3392 Info Closing old configuration.
+2022-12-20 11:31:49.3508 Info Logger has been closed down.
+2022-12-20 11:31:53.4907 Info Message Template Auto Format enabled
+2022-12-20 11:31:53.5446 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:31:53.5456 Info Loading assembly: NLog.Loki
+2022-12-20 11:31:53.6214 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:31:53.6239 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:31:53.6239 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:31:53.7155 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:31:53.7216 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:31:53.7855 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:31:54.0600 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:31:54.4494 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:31:55.2695 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:32:44.7843 Info Shutdown() called. Logger closing...
+2022-12-20 11:32:44.7847 Info Closing old configuration.
+2022-12-20 11:32:44.7940 Info Logger has been closed down.
+2022-12-20 11:32:48.7980 Info Message Template Auto Format enabled
+2022-12-20 11:32:48.8391 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-20 11:32:48.8401 Info Loading assembly: NLog.Loki
+2022-12-20 11:32:48.8837 Info Registered target FileTarget(Name=allfile)
+2022-12-20 11:32:48.8860 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-20 11:32:48.8866 Info Registered target ConsoleTarget(Name=console)
+2022-12-20 11:32:48.9248 Info Registered target LokiTarget(Name=loki)
+2022-12-20 11:32:48.9310 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'lifetimeConsole' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-12-20 11:32:49.0131 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:32:49.4440 Info Validating config: TargetNames=allfile, ownFile-web, console, loki, ConfigItems=88, FilePath=/Users/victorpascale/Documents/GitHub/auktion-service/auktionAPI/bin/Debug/net7.0/NLog.config
+2022-12-20 11:32:49.7326 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:32:50.6275 Warn lokiTarget(Name=loki): WriteAsyncTask failed on completion. Sleep 250 ms Exception: System.Net.Http.HttpRequestException: Connection refused (localhost:3100)
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|281_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NLog.Loki.HttpLokiTransport.WriteLogEventsAsync(IEnumerable`1 lokiEvents)
+2022-12-20 11:34:11.5327 Info Shutdown() called. Logger closing...
+2022-12-20 11:34:11.5348 Info Closing old configuration.
+2022-12-20 11:34:11.5485 Info Logger has been closed down.
