@@ -6,10 +6,19 @@ namespace auktionAPI.Controllers;
 [Route("api/[controller]")]
 public class AuktionController : ControllerBase
 {
+    private readonly ILogger<AuktionController> _logger;
     private readonly IAuktionService _auktionService;
 
-    public AuktionController(IAuktionService auktionService) =>
+    public AuktionController(IAuktionService auktionService, ILogger<AuktionController> logger)
+    {
+        _logger = logger;
         _auktionService = auktionService;
+
+        var hostName = System.Net.Dns.GetHostName();
+        var ips = System.Net.Dns.GetHostAddresses(hostName);
+        var _ipaddr = ips.First().MapToIPv4().ToString();
+        _logger.LogInformation(1, $"AuktionController responding from {_ipaddr}");
+    }
 
     [HttpGet]
     public async Task<List<Auktion>> Get() =>
