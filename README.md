@@ -6,7 +6,7 @@ Guide til at bruge auktionshuset
 2. Opret en kunde i projektet kundeAPI i løsningen kunde-service*
 3. Opret en auktion i projektet auktionAPI i løsningen auktion-service*
 4. Opret et bud i projektet budAPI i løsningen bud-service
-5. Buddet findes nu i auktiondatabasen, hvis det blev godkendt i BudHandler.cs**.
+5. Buddet findes nu i auktionsdatabasen, hvis det blev godkendt i BudHandler.cs**.
 
 /* data findes måske allerede i MongoDB-databaserne.
 /** Se auktion-service/auktionAPI/Services/BudHandler.
@@ -19,8 +19,8 @@ Store a URI instead of a foreign key (ID) and dereference the URI to look up the
 Internal implementation -
 AuktionService and BudHandler separated to simplify testing. 
 
-Contexts boundaries
-Separate kunde-service due to PII and GDPR
+Contexts boundaries - 
+Separate kunde-service due to PII and GDPR.
 Aggregates Vare and Auktion could be implemented in the same microservice as vare-service “looks like a thin wrapper around database CRUD operations” and could be a sign of “weak cohesion and tighter coupling” (Newman 2021).
 
 Rejection -
