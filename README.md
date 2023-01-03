@@ -8,5 +8,5 @@ Guide til at bruge auktionshuset
 4. Opret et bud i projektet budAPI i løsningen bud-service
 5. Buddet findes nu i auktiondatabasen, hvis det blev godkendt i BudHandler.cs**.
 
-* data findes måske allerede i MongoDB-databaserne.
-** Se auktion-service/auktionAPI/Services/BudHandler.
+# data findes måske allerede i MongoDB-databaserne.
+## Se auktion-service/auktionAPI/Services/BudHandler.
