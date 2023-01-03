@@ -13,21 +13,21 @@ Guide til at bruge auktionshuset
 
 # Overvejelser
 
-Make references explicit
+Make references explicit -
 Store a URI instead of a foreign key (ID) and dereference the URI to look up the associated resource (fx /vare/3, works well in RESTful APIs).
 
-Internal implementation
+Internal implementation -
 AuktionService and BudHandler separated to simplify testing. 
 
 Contexts boundaries
 Separate kunde-service due to PII and GDPR
 Aggregates Vare and Auktion could be implemented in the same microservice as vare-service “looks like a thin wrapper around database CRUD operations” and could be a sign of “weak cohesion and tighter coupling” (Newman 2021).
 
-Rejection
+Rejection -
 A request sent by bud-service to change the internal state of Auktion can be rejected by auktion-service.
 
-Coupling
+Coupling -
 Domain coupling between bud-service and auktion-service as temporal coupling has been avoided through the use of asynchronous communication by RabbitMQ as opposed to synchronous blocking network calls. 
 
-Data integrity workaround 
+Data integrity workaround -
 Copy name of vare into auktion when auktion is made.
